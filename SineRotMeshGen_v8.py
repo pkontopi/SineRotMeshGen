@@ -1,3 +1,5 @@
+# Author: Patrick Kontopidis © 2025
+
 import plotly.express as px
 import numpy as np
 import plotly.graph_objects as go
